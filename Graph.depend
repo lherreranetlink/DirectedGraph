@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1505599396 source:c:\users\leo_h\desktop\cucei\graph\main.c
+	"Utils.h"
+
+1505599841 c:\users\leo_h\desktop\cucei\graph\utils.h
+	"List.h"
+
+1505599329 c:\users\leo_h\desktop\cucei\graph\list.h
+	"node.h"
+
+1505599270 c:\users\leo_h\desktop\cucei\graph\node.h
+	<stdio.h>
+	<stdlib.h>
+
+1505610650 source:c:\users\leo_h\desktop\cucei\inteligencia artificial\graph\main.c
+	"VertexListFunctions.h"
+	"EdgeListFunctions.h"
+
+1505601149 source:c:\users\leo_h\desktop\cucei\inteligencia artificial\graph\graphfunctions.c
+	"GraphFunctions.h"
+
+1505599841 c:\users\leo_h\desktop\cucei\inteligencia artificial\graph\graphfunctions.h
+	"List.h"
+
+1505601292 c:\users\leo_h\desktop\cucei\inteligencia artificial\graph\list.h
+	"node.h"
+
+1505601269 c:\users\leo_h\desktop\cucei\inteligencia artificial\graph\node.h
+	<stdio.h>
+	<stdlib.h>
+
+1505601472 c:\users\leo_h\desktop\cucei\inteligencia artificial\graph\utils.h
+
+1505601487 source:c:\users\leo_h\desktop\cucei\inteligencia artificial\graph\utils.c
+
+1505609356 source:c:\users\leo_h\desktop\cucei\inteligencia artificial\graph\vertexlistfunctions.c
+	"VertexListFunctions.h"
+
+1505605394 c:\users\leo_h\desktop\cucei\inteligencia artificial\graph\vertexlistfunctions.h
+	"VertexList.h"
+
+1505605359 c:\users\leo_h\desktop\cucei\inteligencia artificial\graph\vertexlist.h
+	"VertexNode.h"
+
+1505604095 c:\users\leo_h\desktop\cucei\inteligencia artificial\graph\vertexnode.h
+	<stdio.h>
+	<stdlib.h>
+
+1505610877 source:c:\users\leo_h\desktop\cucei\inteligencia artificial\graph\edgelistfunctions.c
+	"EdgeListFunctions.h"
+
+1505608920 c:\users\leo_h\desktop\cucei\inteligencia artificial\graph\edgelistfunctions.h
+	"EdgeList.h"
+
+1505609521 c:\users\leo_h\desktop\cucei\inteligencia artificial\graph\edgelist.h
+	"EdgeNode.h"
+
+1505609529 c:\users\leo_h\desktop\cucei\inteligencia artificial\graph\edgenode.h
+	"VertexNode.h"
+
+1505877388 source:c:\users\leo_h\desktop\cucei\septimo semestre\inteligencia artificial\graph\edgelistfunctions.c
+	"EdgeListFunctions.h"
+
+1505776149 c:\users\leo_h\desktop\cucei\septimo semestre\inteligencia artificial\graph\edgelistfunctions.h
+	"EdgeList.h"
+
+1505609521 c:\users\leo_h\desktop\cucei\septimo semestre\inteligencia artificial\graph\edgelist.h
+	"EdgeNode.h"
+
+1505877291 c:\users\leo_h\desktop\cucei\septimo semestre\inteligencia artificial\graph\edgenode.h
+	"VertexNode.h"
+
+1505877540 c:\users\leo_h\desktop\cucei\septimo semestre\inteligencia artificial\graph\vertexnode.h
+	<stdio.h>
+	<stdlib.h>
+	"EdgeList.h"
+
+1505870302 source:c:\users\leo_h\desktop\cucei\septimo semestre\inteligencia artificial\graph\main.c
+	"Graph.h"
+
+1505773227 c:\users\leo_h\desktop\cucei\septimo semestre\inteligencia artificial\graph\vertexlistfunctions.h
+	"VertexList.h"
+
+1505605359 c:\users\leo_h\desktop\cucei\septimo semestre\inteligencia artificial\graph\vertexlist.h
+	"VertexNode.h"
+
+1505869409 source:c:\users\leo_h\desktop\cucei\septimo semestre\inteligencia artificial\graph\vertexlistfunctions.c
+	"VertexListFunctions.h"
+
+1505877150 c:\users\leo_h\desktop\cucei\septimo semestre\inteligencia artificial\graph\graph.h
+	"EdgeListFunctions.h"
+	"VertexListFunctions.h"
+	<string.h>
+
+1505878260 source:c:\users\leo_h\desktop\cucei\septimo semestre\inteligencia artificial\graph\graph.c
+	"Graph.h"
+
+1505877373 source:c:\users\leo_h\desktop\cucei\septimo semestre\inteligencia artificial\graph\edgenode.c
+	"EdgeNode.h"
+
+1505877888 source:c:\users\leo_h\desktop\cucei\septimo semestre\inteligencia artificial\graph\vertexnode.c
+	"VertexNode.h"
+
+1505886774 source:c:\users\leo_h\onedrive\documentos\graph\edgelistfunctions.c
+	"EdgeListFunctions.h"
+
+1505776149 c:\users\leo_h\onedrive\documentos\graph\edgelistfunctions.h
+	"EdgeList.h"
+
+1505609521 c:\users\leo_h\onedrive\documentos\graph\edgelist.h
+	"EdgeNode.h"
+
+1505877291 c:\users\leo_h\onedrive\documentos\graph\edgenode.h
+	"VertexNode.h"
+
+1505887030 c:\users\leo_h\onedrive\documentos\graph\vertexnode.h
+	<stdio.h>
+	<stdlib.h>
+	"EdgeList.h"
+
+1505877373 source:c:\users\leo_h\onedrive\documentos\graph\edgenode.c
+	"EdgeNode.h"
+
+1505887813 source:c:\users\leo_h\onedrive\documentos\graph\graph.c
+	"Graph.h"
+
+1505885176 c:\users\leo_h\onedrive\documentos\graph\graph.h
+	"EdgeListFunctions.h"
+	"VertexListFunctions.h"
+	<string.h>
+
+1505773227 c:\users\leo_h\onedrive\documentos\graph\vertexlistfunctions.h
+	"VertexList.h"
+
+1505605359 c:\users\leo_h\onedrive\documentos\graph\vertexlist.h
+	"VertexNode.h"
+
+1505887944 source:c:\users\leo_h\onedrive\documentos\graph\main.c
+	"Graph.h"
+
+1505888388 source:c:\users\leo_h\onedrive\documentos\graph\vertexlistfunctions.c
+	"VertexListFunctions.h"
+
+1505887321 source:c:\users\leo_h\onedrive\documentos\graph\vertexnode.c
+	"VertexNode.h"
+
